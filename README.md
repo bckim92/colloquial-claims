@@ -1,4 +1,6 @@
-# How Robust are Fact Checking Systems on Colloquial Claims?
+# How Robust are Fact Checking Systems<br>on Colloquial Claims?
+
+![figure](figure.png)
 
 **Official PyTorch implementation of our NAACL paper:**<br>
 [Byeongchang Kim](https://bckim92.github.io)\*, [Hyunwoo Kim](https://hyunw.kim)\*, Seokhee Hong, and [Gunhee Kim](https://vision.snu.ac.kr/gunhee). How Robust are Fact Checking Systems on Colloquial Claims? *NAACL-HLT*, 2021 [[Paper]](https://www.aclweb.org/anthology/2021.naacl-main.121/) (\* equal contribution)
@@ -16,7 +18,7 @@ If you use the materials in this repository as part of any published research, w
 
 ## *Colloquial Claims* dataset
 
-You can download our paper version of Colloquial Claims dataset via following urls: <br>
+You can download the paper version of our Colloquial Claims dataset via following urls: <br>
 [[train]](https://drive.google.com/file/d/1UDW1p15cN8K7iSMgocPDiv_RUw1DHgfz/view?usp=sharing)
 [[valid]](https://drive.google.com/file/d/1c4D7gbYGBNZXqF1cRZxUfrkIOJnwFO8D/view?usp=sharing)
 [[test]](https://drive.google.com/file/d/10p5YAXbuoko64i-FlhV4eQlzQ8c4Bnio/view?usp=sharing)
