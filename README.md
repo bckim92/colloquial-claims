@@ -3,7 +3,7 @@
 ![figure](figure.png)
 
 **Official PyTorch implementation of our NAACL paper:**<br>
-[Byeongchang Kim](https://bckim92.github.io)\*, [Hyunwoo Kim](https://hyunw.kim)\*, Seokhee Hong, and [Gunhee Kim](https://vision.snu.ac.kr/gunhee). How Robust are Fact Checking Systems on Colloquial Claims? *NAACL-HLT*, 2021 [[Paper]](https://www.aclweb.org/anthology/2021.naacl-main.121/) (\* equal contribution)
+[Byeongchang Kim](https://bckim92.github.io)\*, [Hyunwoo Kim](https://hyunw.kim)\*, [Seokhee Hong](https://vision.snu.ac.kr/people/seokheehong.html), and [Gunhee Kim](https://vision.snu.ac.kr/gunhee). How Robust are Fact Checking Systems on Colloquial Claims? *NAACL-HLT*, 2021 [[Paper]](https://www.aclweb.org/anthology/2021.naacl-main.121/) (\* equal contribution)
 
 If you use the materials in this repository as part of any published research, we ask you to cite the following [paper](https://www.aclweb.org/anthology/2021.naacl-main.121/):
 
